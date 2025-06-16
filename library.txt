@@ -1,0 +1,1 @@
+[{"title": "day 1", "author": "maha", "year": "2024", "genre": "horror", "read": true}, {"title": "hello", "author": "hooriya", "year": "2025", "genre": "mystry", "read": true}, {"title": "my book", "author": "faiza", "year": "2024", "genre": "my self", "read": false}]
